@@ -2,6 +2,7 @@
 1) install docker in your linux machine
 2) Download and keep all the files in the same directory
 3) run the below command, this command will pyspark-jupyter image from docker hub, install , copy all the requisite files by its own.
+
 sh -x automation_steps.sh 
 4) Please check if docker container is up and running. use below commands to check
 docker ps
