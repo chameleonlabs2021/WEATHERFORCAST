@@ -10,6 +10,7 @@ CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS   
 cf795c7a2ee3   e337ec0550bb   "tini -g -- start-no…"   4 minutes ago   Up 4 minutes   0.0.0.0:8888->8888/tcp, :::8888->8888/tcp   festive_fermi
 
 6) once the installation is completed, there will a nohup.out file created in the same directory
+
 -rw------- 1 rahul rahul       3786 Jan 30 10:48 nohup.out
 
 7) open the file and copy the jupyter url and paste it on a chrome browser. Result will look like this 
